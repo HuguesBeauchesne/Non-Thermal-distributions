@@ -12,6 +12,7 @@ Required Python libraries:
 - matplotlib
 
 How to execute:
+
   python3 main.py <NProcesses> <Result_folder> <Gamma_B>
 where:
 - NProcesses: Number of threads to use
