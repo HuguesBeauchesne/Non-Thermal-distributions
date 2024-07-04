@@ -20,7 +20,7 @@ where:
   
 Example:
 
-  python3 main.py 8 R1 1e-17
+    python3 main.py 8 R1 1e-17
 
 Notes:
 - Settings are stored in main.py.
