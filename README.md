@@ -19,6 +19,7 @@ where:
 - Gamma_B: Width of $\phi_B$ in GeV
   
 Example:
+
   python3 main.py 8 R1 1e-17
 
 Notes:
