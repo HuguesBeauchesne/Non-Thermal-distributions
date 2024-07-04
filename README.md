@@ -26,5 +26,5 @@ Example:
 
 Notes:
 - Settings are stored in main.py.
-- The code is numerically very demanding in terms of both CPU and memory.
+- The code is numerically very demanding in terms of both CPU and memory. The use of a cluster is recommended.
 - The code is written in python3 format. Issues might arise if using python2.
