@@ -13,7 +13,7 @@ Required Python libraries:
 
 How to execute:
 
-  python3 main.py <NProcesses> <Result_folder> <Gamma_B>
+  python3 main.py NProcesses Result_folder Gamma_B
   
 where:
 - NProcesses: Number of threads to use
